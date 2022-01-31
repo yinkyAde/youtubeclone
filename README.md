@@ -3,7 +3,6 @@
 Youtube Clone UI supports all platforms.
 
 ## UI
-![](https://github.com/yinkyAde/youtubeclone/blob/master/assets/video/youtube%20clone.mp4)
 
 #💻 How to install?
 
