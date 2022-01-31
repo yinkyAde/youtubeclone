@@ -1,10 +1,10 @@
-# youtubeclone
+# Youtube Clone Flutter
 
 Youtube Clone UI supports all platforms.
 
 ## UI
 
-##💻 How to install?
+#💻 How to install?
 
 ## Getting Started
 
